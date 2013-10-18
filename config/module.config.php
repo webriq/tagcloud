@@ -78,7 +78,7 @@ return array(
     ),
     'translator' => array(
         'translation_file_patterns' => array(
-            'tag' => array(
+            'tagCloud' => array(
                 'type'          => 'phpArray',
                 'base_dir'      => __DIR__ . '/../languages/tagCloud',
                 'pattern'       => '%s.php',
