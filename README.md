@@ -1,8 +1,8 @@
-ContentList module for Gridguyz
-===============================
+TagCloud module for Gridguyz
+============================
 
-ContentList module provides functionality to be able to list contents in
-the content-list paragraphs by tags.
+TagCloud module provides functionality to be able to list tags as a
+cloud (each tag is weighted by their usage).
 
 License
 -------
