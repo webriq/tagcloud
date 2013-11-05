@@ -25,9 +25,11 @@ return array(
                     'spec'  => array(
                         'options'   => array(
                             'options'   => array(
-                                'basic' => array(
+                                'functions'     => array(
+                                    'label'     => 'paragraph.type-group.functions',
+                                    'order'     => 4,
                                     'options'   => array(
-                                        'tagCloud'      => 'paragraph.type.tagCloud',
+                                        'tagCloud'  => 'paragraph.type.tagCloud',
                                     ),
                                 ),
                             ),
