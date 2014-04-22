@@ -26,8 +26,6 @@ return array(
                         'options'   => array(
                             'options'   => array(
                                 'functions'     => array(
-                                    'label'     => 'paragraph.type-group.functions',
-                                    'order'     => 4,
                                     'options'   => array(
                                         'tagCloud'  => 'paragraph.type.tagCloud',
                                     ),
