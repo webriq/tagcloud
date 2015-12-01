@@ -1,31 +1,31 @@
 {
-    "name": "gridguyz/tagcloud",
-    "type": "gridguyz-module",
-    "description": "TagCloud module for Gridguyz CMS",
-    "license": "CC-BY-SA-3.0",
+    "name": "webriqcms/tagcloud",
+    "type": "webriqcms-module",
+    "description": "TagCloud module for WebriQ CMS",
+    "license": "BSD-3-Clause",
     "keywords": [
-        "gridguyz",
+        "webriqcms",
         "module",
         "tag-cloud",
         "tags"
     ],
-    "homepage": "http://gridguyz.com/",
+    "homepage": "http://webriq.com/",
     "authors": [
         {
-            "name": "David Pozsar",
-            "email": "david.pozsar@megaweb.hu",
-            "homepage": "http://gridguyz.com/",
-            "role": "Developer"
+            "name": "WebriQ Dev Team",
+            "email": "info@webriq.com",
+            "homepage": "http://webriq.com/",
+            "role": "Development Team"
         }
     ],
     "support": {
-        "email": "dev@megaweb.hu",
-        "source": "https://github.com/gridguyz/tagcloud"
+        "email": "info@webriq.com",
+        "source": "https://github.com/webriq/tagcloud"
     },
     "require": {
         "php": ">=5.4",
-        "gridguyz/module-installer": "*",
-        "gridguyz/core": "*"
+        "webriqcms/module-installer": "*",
+        "webriqcms/core": "*"
     },
     "autoload": {
         "psr-0": {
@@ -37,7 +37,7 @@
     },
     "extra": {
         "display-icon": {
-            "63": "https://raw.github.com/gridguyz/tagcloud/%reference%/icons/63x63.png"
+            "63": "https://raw.github.com/webriq/tagcloud/%reference%/icons/63x63.png"
         },
         "display-name": {
             "en": "Tag Cloud"
